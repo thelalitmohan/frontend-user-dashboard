@@ -1,0 +1,11 @@
+.container {
+  height: 100vh;
+}
+
+.container .content-area {
+  width: 100%;
+  margin-top: 10%;
+  padding: 24px 0px;
+  border-top: solid 1px #ccc;
+  border-bottom: solid 1px #ccc;
+}
